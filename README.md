@@ -1,2 +1,3 @@
 # Trideep-Demo
-My first turorial on github
+My first github tutorial
+By - Trideep Khadia
